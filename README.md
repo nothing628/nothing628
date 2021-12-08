@@ -53,6 +53,10 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+## 📈 GitHub Stats 
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=nothing628)](https://github.com/nothing628)
+
 <!--
 Saya 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
