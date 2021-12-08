@@ -58,6 +58,8 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 [![My github stats](https://github-readme-stats.vercel.app/api?username=nothing628)](https://github.com/nothing628)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothing628)](https://github.com/nothing628)
+</br>
+[![nothing628's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothing628)](https://github.com/nothing628)
 
 <!--
 Saya 
