@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Yogy</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, and Apps Developer📱
+</h2> 
 
 <!--
 **nothing628/nothing628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
