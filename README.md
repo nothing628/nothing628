@@ -60,8 +60,7 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothing628)](https://github.com/nothing628)
 </br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 <!--
 Saya 
