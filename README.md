@@ -67,7 +67,7 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 68.0 kB Used in GitHub's Storage 
+> 📦 67.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -138,7 +138,7 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2022
+ Last Updated on 14/02/2022
 <!--END_SECTION:waka-->
 
 <!--
