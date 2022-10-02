@@ -61,7 +61,7 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -140,7 +140,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2022
+ Last Updated on 02/10/2022
 <!--END_SECTION:waka-->
 
 <!--
