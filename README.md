@@ -61,7 +61,7 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,7 +139,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2023
+ Last Updated on 19/03/2023
 <!--END_SECTION:waka-->
 
 <!--
