@@ -61,7 +61,7 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -138,7 +138,7 @@ Vue                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023
+ Last Updated on 04/12/2023
 <!--END_SECTION:waka-->
 
 <!--
