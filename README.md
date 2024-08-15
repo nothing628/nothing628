@@ -61,7 +61,7 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,7 +69,7 @@ Saya pernah bekerja di PT Toffin Indonesia sebagai pengembang Web. Disana saya m
 
 > 🏆 205 Contributions in the Year 2024
  > 
-> 📦 347.5 kB Used in GitHub's Storage 
+> 📦 347.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -140,7 +140,7 @@ Dart                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2024
+ Last Updated on 15/08/2024
 <!--END_SECTION:waka-->
 
 <!--
